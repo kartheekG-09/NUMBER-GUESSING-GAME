@@ -61,12 +61,10 @@ NUMBER_GUESSING_GAME:
 ── game_setup.py   
 ── user_input.py  
 ── check_guess.py  
-── game_result.py   
-── game_rules.py   
+── game_result.py     
 ── play_again.py   
 ── README.md   
 ── statement.md    
-── diagrams.md  
 
 9. How the Program Works
 The user runs `main.py`.
