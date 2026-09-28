@@ -19,7 +19,7 @@ Shows whether the user won or lost.
 Allows the user to play again.
 Uses separate Python files for different parts of the program.
 
-4. Technologies / Tools Used
+4. Technologies and Tools Used
 Python
 Python `random` module
 One Compiler
@@ -55,10 +55,10 @@ Entering invalid input and checking the program's response.
 
 8. Project Structure
 
-NUMBER_GUESSING_GAME
+NUMBER_GUESSING_GAME:
 
-── main.py 
-── game_setup.py 
+── main.py    
+── game_setup.py   
 ── user_input.py  
 ── check_guess.py  
 ── game_result.py   
