@@ -12,4 +12,4 @@ def get_guess():
         if 1 <= guess <= 100:
             return guess
 
-        print('No. guessed BY USER MUST be between 1 and 100.')
+        print('Numberr guessed BY USER MUST be between 1 and 100.')
