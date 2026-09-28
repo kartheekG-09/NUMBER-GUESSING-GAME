@@ -56,15 +56,19 @@ Entering invalid input and checking the program's response.
 8. Project Structure
 
 NUMBER_GUESSING_GAME
-│
-├── main.py
-├── game_setup.py
-├── user_input.py
-├── check_guess.py
-├── game_result.py
-├── game_rules.py
-├── play_again.py
-│
-├── README.md
-├── statement.md
-└── diagrams.md
+
+── main.py 
+── game_setup.py 
+── user_input.py  
+── check_guess.py  
+── game_result.py   
+── game_rules.py   
+── play_again.py   
+── README.md   
+── statement.md    
+── diagrams.md  
+
+9. How the Program Works
+The user runs `main.py`.
+`main.py` uses functions from the other Python files. The computer creates a random number, the user enters guesses, and the program checks each guess and gives a hint.
+At the end, the program displays the result and asks whether the user wants to play again.
